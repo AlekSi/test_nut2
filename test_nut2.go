@@ -3,7 +3,7 @@ package test_nut2
 
 import (
 	_ "fmt"
-	_ "gonuts.io/test_nut1/0.0.1"
+	_ "gonuts.io/debug/test_nut1/0.0.1"
 )
 
 func Foo() {
